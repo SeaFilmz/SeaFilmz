@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm SeaFilmz</h1>
+<h1 align="center">Hello 👋, I'm SeaFilmz</h1>
 <p align="center">Web Developer, Data Analyst and Database</p>
 
 <h2 align="left">Certificates:</h2>
