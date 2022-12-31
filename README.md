@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm SeaFilmz</h1>
-<p align="center">Web Developer, Data Analyst and Database</p>
+<p align="center">Software Engineer, Data Analyst and Database</p>
 
 <h2 align="left">Projects:</h2>
 <p align="left">Developer of website <a href="https://seafilmz.com">seafilmz.com</a>.</p>
